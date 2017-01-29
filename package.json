@@ -1,0 +1,28 @@
+{
+  "name": "3-custom-method-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.0",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clo2go/custom-methods-practice.git"
+  },
+  "author": "Carlos Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clo2go/custom-methods-practice/issues"
+  },
+  "homepage": "https://github.com/clo2go/custom-methods-practice#readme"
+}
